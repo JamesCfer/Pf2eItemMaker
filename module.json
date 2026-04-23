@@ -21,7 +21,7 @@
     "styles/builder.css"
   ],
   "templateDir": "templates",
-  "version": "2.3.6",
+  "version": "2.3.7",
   "manifest": "https://github.com/JamesCfer/Pf2eItemMaker/releases/download/latest/module.json",
   "download": "https://github.com/JamesCfer/Pf2eItemMaker/releases/download/latest/Pf2eItemGenerator.zip"
 }
