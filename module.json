@@ -1,6 +1,6 @@
 {
-  "id": "Pf2eItemMaker",
-  "title": "PF2E Item Auto-Builder",
+  "id": "Pf2eItemGenerator",
+  "title": "PF2e Item Generator",
   "description": "Generate Pathfinder 2e items (weapons, armor, consumables, treasure, and more) from a short description. Items are created directly in your world.",
   "authors": [
     {
@@ -21,7 +21,7 @@
     "styles/builder.css"
   ],
   "templateDir": "templates",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "manifest": "https://github.com/JamesCfer/Pf2eItemMaker/releases/download/latest/module.json",
-  "download": "https://github.com/JamesCfer/Pf2eItemMaker/releases/download/latest/Pf2eItemMaker.zip"
+  "download": "https://github.com/JamesCfer/Pf2eItemMaker/releases/download/latest/Pf2eItemGenerator.zip"
 }
